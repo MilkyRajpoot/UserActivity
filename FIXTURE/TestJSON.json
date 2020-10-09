@@ -1,0 +1,17 @@
+[{
+	"model": "UserActivityPeriodApp.users",
+	"pk": 1,
+	"fields": {
+		"real_name": "Demo",
+		"tz": "Asia/Kolkata",
+		"activity_periods": [5, 6]
+	}
+}, {
+	"model": "UserActivityPeriodApp.users",
+	"pk": 2,
+	"fields": {
+		"real_name": "Demo2",
+		"tz": "Asia/Kolkata",
+		"activity_periods": [5, 6]
+	}
+}]
